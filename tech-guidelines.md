@@ -1,6 +1,9 @@
 # Tech Guidelines
 
 ## Table of Contents
+
+- [Tech Guidelines](#tech-guidelines)
+  - [Table of Contents](#table-of-contents)
     - [1.3. Nvidia Control Panel](#13-nvidia-control-panel)
         - [1.3.1. Nvidia Geforce Experience](#131-nvidia-geforce-experience)
         - [1.3.2. Nvidia Surround and Spanning Displays Information](#132-nvidia-surround-and-spanning-displays-information)
